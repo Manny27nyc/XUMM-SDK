@@ -20,7 +20,7 @@
   "dependencies": {
     "assert": "^2.0.0",
     "bignumber.js": "^9.0.0",
-    "debug": "^4.1.1",
+    "debug": "^4.3.2",
     "dotenv": "^8.2.0",
     "node-fetch": "^2.6.1",
     "ws": "^7.3.1"
