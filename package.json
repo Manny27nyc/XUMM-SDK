@@ -19,7 +19,7 @@
   ],
   "dependencies": {
     "assert": "^2.0.0",
-    "bignumber.js": "^9.0.0",
+    "bignumber.js": "^9.0.2",
     "debug": "^4.1.1",
     "dotenv": "^8.2.0",
     "node-fetch": "^2.6.1",
