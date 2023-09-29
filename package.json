@@ -18,7 +18,7 @@
     "dist/src/**/*.d.ts"
   ],
   "dependencies": {
-    "assert": "^2.0.0",
+    "assert": "^2.1.0",
     "bignumber.js": "^9.0.0",
     "debug": "^4.1.1",
     "dotenv": "^8.2.0",
